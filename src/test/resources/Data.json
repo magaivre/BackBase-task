@@ -1,0 +1,20 @@
+{
+	"Create": {
+		"computerName": "ABC",
+		"introducedDate": "1990-01-01",
+		"discontinuedDate": "1995-02-10",
+		"companyName": "RCA"
+	},
+	"Edit": {
+		"editComputerName": "ABC1",
+		"editIntroducedDate": "1993-01-01",
+		"editDiscontinuedDate": "1997-05-28",
+		"editCompanyName": "Netronics"
+	},
+	"WrongData":{
+		"worngComputerName": "ABC",
+		"wrongIntroducedDate": "199090101",
+		"wrongDiscontinuedDate": "199510210",
+		"wrongCompanyName": "RCA"
+	}
+}
